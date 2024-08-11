@@ -74,11 +74,15 @@ width: auto;
     font-size: 14px; */
      display: flex;
  font-size: 15px; 
-  } */
-  .chance  {
-    display: flex;
-    flex-direction: column; 
   } 
+.chance{
+  display: flex;
+  flex-direction: column;
+}
+  .Movement{
+display: flex;
+flex-direction: column;
+    }
   .run {
     display: flex;
     flex-direction: column;
@@ -192,8 +196,8 @@ width: auto;
     padding: 8px 50px;
   }
   .select {
-    padding: 8px 90px;
-    margin-left: 2rem;
+    padding: 8px 75px;
+    margin-left: 3rem;
   }
   .btn-calculate {
    margin-left: 3rem;
