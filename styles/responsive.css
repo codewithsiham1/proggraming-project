@@ -30,7 +30,7 @@
     font-size: 30px;
   }
   .get-body p {
-font-size: 1.4rem;
+font-size: 1.5rem;
 width: auto;
   }
   .shape{
@@ -98,7 +98,7 @@ width: auto;
   .run p {
     font-size: 13px;
     /* margin: 0, auto; */
-    width: 100%;
+    /* width: 100%; */
   }
   .run img {
     width: 90%;
@@ -188,21 +188,21 @@ width: auto;
   }
   .height {
     padding: 8px 40px;
-    margin-left: 2rem;
+    margin-left: 1rem;
   }
   .weight {
     padding: 8px 40px;
   }
   .age {
     padding: 8px 60px;
-    margin-left: 2rem;
+    margin-left: 1rem;
   }
   .sex {
     padding: 8px 50px;
   }
   .select {
     padding: 8px 75px;
-    margin-left:2rem;
+    margin-left:1rem;
   }
   .btn-calculate {
    margin-left: 2rem;
@@ -265,7 +265,7 @@ width: auto;
     font-weight: bold;
   }
   .footer p{
-    font-size: 12px;
+    font-size: 14px;
     width: auto;
   }
   .get-started h1{
