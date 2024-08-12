@@ -3,7 +3,7 @@
           margin: 0,auto;
       } */
   .banner {
-    width: 96vw;
+    width: 98vw;
     height: 120vh;
   }
   .fitness {
@@ -71,8 +71,8 @@ width: auto;
   }
 
   .habit p{
-font-size: 18px;
-width: auto;
+font-size: 15px;
+width: 100%;
   } 
 
 .chance{
@@ -80,7 +80,7 @@ width: auto;
   flex-direction: column;
 }
 .Movement p{
-font-size: 1rem;
+font-size: 14px;
 width: auto;
 }
   .run {
@@ -96,9 +96,9 @@ width: auto;
     margin: 0, auto;
   }
   .run p {
-    font-size: 28px;
+    font-size: 13px;
     /* margin: 0, auto; */
-    width: auto;
+    width: 100%;
   }
   .run img {
     width: 90%;
@@ -169,7 +169,7 @@ width: auto;
     margin-top: 1rem;
   }
   .bmi p{
-    font-size: 18px;
+    font-size: 14px;
     width: auto;
   }
   .calculation {
@@ -211,7 +211,7 @@ width: auto;
     font-size: 25px;
   }
   .team p{
-    font-size: 17px;
+    font-size: 14px;
   }
   .trainer-image {
     display: flex;
