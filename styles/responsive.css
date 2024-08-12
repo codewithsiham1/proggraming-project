@@ -65,24 +65,23 @@ width: auto;
   }
 
   .habit h1 {
-    margin-right: 1rem; 
-     font-size: 20px;
+    /* margin-right: 1rem;  */
+      font-size: 25px; 
   }
 
   .habit p{
-    /* width: 82vw;
-    font-size: 14px; */
-     display: flex;
- font-size: 15px; 
+ font-size: 17px;
+ width: auto;
   } 
+
 .chance{
   display: flex;
   flex-direction: column;
 }
-  .Movement{
-display: flex;
-flex-direction: column;
-    }
+.Movement p{
+font-size: 1rem;
+width: auto;
+}
   .run {
     display: flex;
     flex-direction: column;
@@ -112,8 +111,8 @@ flex-direction: column;
     font-size: 20px;
   }
   .trainings p{
-    font-size: 12px;
-    width: 72vw;
+    font-size: 1.1rem;
+    width: auto;
   }
   .column {
     width: 100%vw;
@@ -134,6 +133,7 @@ flex-direction: column;
 }
   .class {
     margin-left: 10rem;
+    margin-top: 10px;
     font-size: 10px;
   }
   .lorem {
@@ -166,6 +166,10 @@ flex-direction: column;
   }
   .bmi {
     margin-top: 1rem;
+  }
+  .bmi p{
+    font-size: 16.2px;
+    width: auto;
   }
   .calculation {
     display: flex;
@@ -222,6 +226,9 @@ flex-direction: column;
   .png-11 {
     display: none;
   }
+  .png-12{
+    margin-top: -14px;
+  }
   .pnges-1 {
     text-align: center;
     margin-top: -50px;
@@ -250,7 +257,14 @@ flex-direction: column;
     font-size: 40px;
     font-weight: bold;
   }
-  .get-started li {
-    margin-right: 3rem;
+  .footer p{
+    font-size: 14px;
+    width: auto;
+  }
+  .get-started h1{
+    margin-left: 10px;
+  }
+  .us li {
+    margin-left: -1rem;
   }
 }
