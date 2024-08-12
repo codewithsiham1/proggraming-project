@@ -47,14 +47,14 @@ width: auto;
   }
   .video {
     padding: 7px 7px 7px 7px;
-     transform: translate(15rem,9rem);
+     transform: translate(12rem,10rem);
   }
   .tutorial {
-     transform: translate(-4rem,15rem);   
+     transform: translate(-7rem,15rem);   
     padding: 10px 20px 10px 20px;
   }
   .svg{
-    transform: translate(5rem,11rem); 
+    transform: translate(2rem,11rem); 
     
   }
   .club-btn{
@@ -66,13 +66,13 @@ width: auto;
 
   .habit h1 {
     /* margin-right: 1rem;  */
-      font-size: 25px; 
+      font-size: 20px; 
       width: auto;
   }
 
   .habit p{
- font-size: 17px;
- width: auto;
+font-size: 18px;
+width: auto;
   } 
 
 .chance{
@@ -96,7 +96,7 @@ width: auto;
     margin: 0, auto;
   }
   .run p {
-    font-size: 13px;
+    font-size: 28px;
     /* margin: 0, auto; */
     width: auto;
   }
@@ -109,10 +109,10 @@ width: auto;
     margin-left: -1px;
   }
   .trainings h1 {
-    font-size: 20px;
+    font-size: 35px;
   }
   .trainings p{
-    font-size: 17px;
+    font-size: 18px;
     width: auto;
   }
   .column {
@@ -169,7 +169,7 @@ width: auto;
     margin-top: 1rem;
   }
   .bmi p{
-    font-size: 16px;
+    font-size: 18px;
     width: auto;
   }
   .calculation {
